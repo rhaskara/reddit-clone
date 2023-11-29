@@ -24,5 +24,5 @@ This is an experimental project that utilizes chakra ui and next js to fetch pos
 ## More Notes
 
 Things that can be improved on: GIFs sadly doesn't work for now.
-I plan to add search functionality maybe in the future, who knows
+I plan to add search functionality maybe in the future, who knows.
 View More comments is a pain to work on, so I've ommitted these for now.
